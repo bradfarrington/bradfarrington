@@ -25,7 +25,7 @@ Tools:
 - React Native
 - GitHub
 
-My goals for 2024:
+## My goals for 2024:
 - Completing my HTML, CSS and JS course
 - Building more mobile applications
 - Building my family business website

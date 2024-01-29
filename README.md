@@ -5,7 +5,7 @@ Hello 👋 My name is <strong>Brad Farrington</strong>. I am from Tamworth which
 I am currently learning web development and have been interested in programming for many years.
 I have coded multiple applications using JavaScript and the React Native libraries and i am here to further my knowledge.
 
-I have a huge interest in creating projects from scracth and watchiong my ideas come to life in the form of websites or functional mobile applications for everyday use. 
+I have a huge interest in creating projects from scratch and watching my ideas come to life in the form of websites or functional mobile applications for everyday use. 
 
 I am a Director of a family business named Bradley Scott Windows and i built the mobile application for our customers to use enabling them to track their orders and also design their own front doors.
 
